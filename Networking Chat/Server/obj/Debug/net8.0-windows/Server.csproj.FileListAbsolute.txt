@@ -1,0 +1,51 @@
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Server\obj\Debug\net8.0-windows\Server.Properties.Resources.resources
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.Properties.Resources.resources
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\saras\OneDrive\Pulpit\Visual Studio\Networking Chat App\Server\obj\Debug\net8.0-windows\ref\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.exe
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.deps.json
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.runtimeconfig.json
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\bin\Debug\net8.0-windows\Server.pdb
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.Form1.resources
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.Properties.Resources.resources
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.csproj.GenerateResource.cache
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.AssemblyInfoInputs.cache
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.AssemblyInfo.cs
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.csproj.CoreCompileInputs.cache
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\refint\Server.dll
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.pdb
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\Server.genruntimeconfig.cache
+C:\Users\saras\OneDrive\Pulpit\Networking Chat App\Server\obj\Debug\net8.0-windows\ref\Server.dll
